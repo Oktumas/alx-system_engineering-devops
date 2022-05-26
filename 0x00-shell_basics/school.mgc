@@ -1,2 +1,3 @@
 #!/bin/bash
-SCHOOL file./*
+SCHOOL
+file./*
